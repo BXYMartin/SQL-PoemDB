@@ -5,8 +5,9 @@ A B/S Database System for the Management of Chinese Poetry, implemented by HTML5
 This is the `#1` project for Experiment Curriculum of Database Design.
 
 ## Environment Setup
-This project uses `Apache 2.4` Server running `PHP 7`. We choose `MySQL` as the Database Management System. Version control is powered by `git`. 
-The **local Apache Server** is running on `localhost:80`/`127.0.0.1:80`, the main website can be accessed through `/index.html`.
+This project uses `Apache 2.4` Server running `PHP 7`. We choose `MySQL` as the Database Management System. Version control is powered by `git`. <br>
+The **local Apache Server** is running on `localhost:80`/`127.0.0.1:80`, the main website can be accessed through `/index.html`. <br>
+Security settings for the database is file `Poems/config.php`.
 
 ## Special Thanks
 This project is a group work of two, collaborated with [sdycodes](https://github.com/sdycodes). <br>
