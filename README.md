@@ -11,5 +11,5 @@ The **local Apache Server** is running on `localhost:80`/`127.0.0.1:80`, the mai
 ## Special Thanks
 This project is a group work of two, collaborated with [sdycodes](https://github.com/sdycodes). <br>
 The original repository is at [sdycodes/database](https://github.com/sdycodes/database). <br>
-The idea is inspired by [Chinese Poetry](https://github.com/menghuanlater/chinese-poetry) repository. <br>
+The idea is inspired by [Chinese Poetry](https://github.com/chinese-poetry/chinese-poetry) repository. <br>
 **Special Thanks to all Contributors for their awesome work!**
