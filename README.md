@@ -3,8 +3,8 @@ A B/S Database System for the Management of Chinese Poetry, implemented by HTML5
 
 ## About
 This is the `#1` project for Experiment Curriculum of Database Design.
-![Welcome Page](https://github.com/BXYMartin/SQL-PoemDB/Images/Welcome.png)
-![Index Page](https://github.com/BXYMartin/SQL-PoemDB/Images/Function.png)
+![Welcome Page](https://github.com/BXYMartin/SQL-PoemDB/blob/master/Images/Welcome.png)
+![Index Page](https://github.com/BXYMartin/SQL-PoemDB/blob/master/Images/Function.png)
 
 ## Environment Setup
 This project uses `Apache 2.4` Server running `PHP 7`. We choose `MySQL` as the Database Management System. Version control is powered by `git`. <br>
