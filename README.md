@@ -2,7 +2,7 @@
 A B/S Database System for the Management of Chinese Poetry, implemented by HTML5 and PHP7.
 
 ## About
-This is the `#1` project for Experiment Curriculum of Database Design.
+This is the `#1` project for Experiment Curriculum of Database Design. <br>
 ![Welcome Page](https://github.com/BXYMartin/SQL-PoemDB/blob/master/Images/Welcome.png)
 ![Index Page](https://github.com/BXYMartin/SQL-PoemDB/blob/master/Images/Function.png)
 
